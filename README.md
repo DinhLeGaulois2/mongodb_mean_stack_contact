@@ -1,7 +1,7 @@
 # Address Book - MEAN Stack
 
 ## Aim
-Building a project based on a EER (Enhanced Entity-Relationship).
+Building a project based on an EER (Enhanced Entity-Relationship).
 
 ## Enhanced Entity-Relationship
 
