@@ -1,2 +1,8 @@
-# MEAN Stack - Contact
+# Address Book - MEAN Stack
 
+## Aim
+Building a project based on a EER (Enhanced Entity-Relationship).
+
+## Enhanced Entity-Relationship
+
+![alt text](assets/img/data-model-address-book.jpg)
