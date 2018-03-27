@@ -9,3 +9,9 @@ Building a project based on an EER (Enhanced Entity-Relationship).
 
 ---
 # BUILDING: EMPTY FOR NOW ...
+
+---------------
+
+## Author
+* Dinh HUYNH - All Rights Reserved!
+* dinh.hu19@yahoo.com
